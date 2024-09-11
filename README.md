@@ -1,0 +1,3 @@
+# Nashvilee_Housing_Data_Cleaning_in_SQL
+  This project involves cleaning and transforming a Nashville housing dataset using SQL Server. The dataset underwent various cleaning techniques, including handling missing data, correcting data formats, and removing duplicates. Key SQL operations such as Basic Aggregations, Window Functions, Common Table Expressions (CTEs), and Joins were utilized to ensure data quality and prepare the dataset for further analysis. This project demonstrates proficiency in SQL data manipulation and cleaning techniques to prepare raw data for accurate and insightful analysis.
+
